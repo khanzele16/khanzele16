@@ -1,1 +1,1 @@
-<img width='545px' height='450px' src='https://media1.tenor.com/m/ZtCb2TdGS0EAAAAC/appu-appurajosh.gif' />
+<img src='https://user-images.githubusercontent.com/1387913/87007215-bed2a900-c176-11ea-9bb6-3273562165fe.gif' />
