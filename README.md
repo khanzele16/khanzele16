@@ -1,6 +1,6 @@
 ## KHANZELE.DEV
 <img src='https://user-images.githubusercontent.com/1387913/87007215-bed2a900-c176-11ea-9bb6-3273562165fe.gif' />
-# 💫 About Me:
+## 💫 About Me:
 I am Frontend-developer! Working on interesting projects. Have some experiense in Backend-development.
 
 
@@ -14,16 +14,8 @@ I am Frontend-developer! Working on interesting projects. Have some experiense i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khanzele&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khanzele&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khanzele&theme=dark&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=khanzele&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=khanzele&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
