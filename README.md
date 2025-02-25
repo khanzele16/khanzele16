@@ -1,8 +1,8 @@
 ## KHANZELE.DEV
 ### 💫 About Me:
-I am Frontend-developer! Working on interesting projects. Have some experiense in Backend-development.
-<img src='https://user-images.githubusercontent.com/1387913/87007215-bed2a900-c176-11ea-9bb6-3273562165fe.gif' />
+##### I am Frontend-developer! Working on interesting projects. Have some experiense in Backend-development.
 
+<img src='https://user-images.githubusercontent.com/1387913/87007215-bed2a900-c176-11ea-9bb6-3273562165fe.gif' />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khanze1e) 
