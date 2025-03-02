@@ -1,6 +1,6 @@
 ## KHANZELE.DEV
 ### 💫 About Me:
-##### I am Frontend-developer! Working on interesting projects. Have some experiense in Backend-development.
+#### I am Frontend-developer! Working on interesting projects. Have some experiense in Backend-development.
 
 <img src='https://user-images.githubusercontent.com/1387913/87007215-bed2a900-c176-11ea-9bb6-3273562165fe.gif' />
 
